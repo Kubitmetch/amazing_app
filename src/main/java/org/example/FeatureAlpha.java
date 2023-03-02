@@ -6,6 +6,6 @@ public class FeatureAlpha {
 
     public void run(){
         System.out.println("This is feature alpha");
-        System.out.println("This is a bug");
+        System.out.println("This is not longer a bug");
     }
 }
