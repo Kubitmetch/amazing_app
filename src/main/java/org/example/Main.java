@@ -6,5 +6,8 @@ public class Main {
 
         FeatureAlpha alpha = new FeatureAlpha();
         alpha.run();
+
+        FeatureBeta beta = new FeatureBeta();
+        beta.run();
     }
 }
